@@ -12,10 +12,10 @@ class Prime{
       }
     }
     if(count==0){
-      System.out.println("a prime number");
+      System.out.println("The number is prime.");
     }
     else{
-      System.out.println("not a prime number");
+      System.out.println("The number is not prime");
     }
   }
 }
